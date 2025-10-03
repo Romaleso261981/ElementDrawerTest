@@ -11,7 +11,7 @@ import {
   InputLabel,
   Paper,
 } from "@mui/material";
-import "./styles.css";
+import "./styles.scss";
 
 interface FormElement {
   row: number;
