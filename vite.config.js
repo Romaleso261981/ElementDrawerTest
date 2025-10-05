@@ -5,7 +5,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     allowedHosts: [
-      '978gqk-5173.csb.app',
+      'gw4xsj-5173.csb.app',
       'localhost',
       '127.0.0.1'
     ]
